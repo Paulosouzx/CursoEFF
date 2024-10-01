@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "ApiCrud.Estudantes.EstudantesRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasEstudantes\u003Eb__0_0",
+    "RelativePath": "estudantes/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiCrud.Estudantes.AddEstudanteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
