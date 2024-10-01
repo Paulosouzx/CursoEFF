@@ -18,7 +18,8 @@ namespace ApiCrud
             builder.Services.AddScoped<AppDbContext>();
 
             builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("Server=PAULOSOUZX;Database=EstudantesDB;Integrated Security=True;TrustServerCertificate=True;"));
+                options.UseSqlServer(
+                    "Server=PAULOSOUZX;Database=EstudantesDB;Integrated Security=True;TrustServerCertificate=True;"));
 
             var app = builder.Build();
 
