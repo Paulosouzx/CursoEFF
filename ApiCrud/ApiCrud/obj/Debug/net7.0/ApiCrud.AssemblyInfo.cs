@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22d44d84233895342a8c9202e072a14cf9178d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b76064d2bc4bd98545f43b42823722609203272f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

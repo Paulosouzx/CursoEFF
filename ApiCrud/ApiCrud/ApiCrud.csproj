@@ -17,4 +17,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Estudantes\UpdateEstudanteRequest.cs" />
+    <Compile Remove="Estudantes\UpdateRequest.cs" />
+    <Compile Remove="Estudantes\DeleteEstudanteRequest.cs" />
+  </ItemGroup>
+
 </Project>
